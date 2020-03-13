@@ -10,7 +10,7 @@ $ cd jbwapi-kotlin-template
 
 $ gradle build
 
-$ java -jar target/jbwapi-kotlin-template-1.0-SNAPSHOT.jar
+$ java -jar build/libs/jbwapi-kotlin-template-1.0-SNAPSHOT.jar
 ```
 
 ### Tutorial
