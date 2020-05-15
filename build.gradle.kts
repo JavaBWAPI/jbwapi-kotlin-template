@@ -12,7 +12,7 @@ repositories {
 
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-    implementation("com.github.JavaBWAPI:JBWAPI:1.3")
+    implementation("com.github.JavaBWAPI:JBWAPI:1.4")
 }
 
 tasks {
